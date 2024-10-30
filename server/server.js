@@ -19,24 +19,24 @@ app.get('/api/products', (req, res) => {
     },
     {
       id: 2, 
-      name: 'Campera Keyboard programador',  
+      name: 'MacOs',  
       oldPrice: 11500, 
       price: 11200, 
-      urlImg: 'https://purodiseno.lat/wp-content/uploads/2023/04/CAMPERA-TECLADO-2-821x1024.jpg' 
+      urlImg: 'https://i.blogs.es/f663fb/mac-sierra-homescreen/450_1000.jpg' 
     },
     { 
       id: 3, 
-      name: 'Disco-solido interno kingston sata-960g',  
+      name: 'Samsung S24 Ultra',  
       oldPrice: 18500, 
       price: 18000, 
-      urlImg: 'https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQwqHX1fVP2DUn6mEw05ukydZ6KOgkf0w3N3ZEHHJnDUW7WtxSEzdOZ73YxCn-FBC5kYxGeF4wy9zakpXVDOXbjQouNAmyH1LTbzkyuK2t0u9We1eAqfkFFDw&usqp=CAE' 
+      urlImg: 'https://dcdn.mitiendanube.com/stores/001/555/911/products/s24-ultra-gris-fa87a0fdb450fa63ac17148689933448-1024-1024.jpg' 
     },
     { 
       id: 3, 
-      name: 'Taza Código De Programacion',  
+      name: 'Laptop Windows',  
       oldPrice: 3500, 
       price: 2200, 
-      urlImg: 'https://http2.mlstatic.com/D_NQ_NP_786656-MLA46832914211_072021-O.webp' 
+      urlImg: 'https://hyundaitechnology.com.mx/web/image/product.image/2495/image_1024/Laptop%20Hyundai%20Thinnote-A%2C%2014.1%E2%80%9D%20Intel%20Celeron%2C%204GB%20RAM%2C%2064GB%20HDD%2C%20Windows%2010%20Home%20S%20Mode%20-%20Gris?unique=ec4ea93' 
     },
     
     
