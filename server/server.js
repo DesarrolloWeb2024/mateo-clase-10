@@ -12,10 +12,10 @@ app.get('/api/products', (req, res) => {
   const products = [
     { 
       id: 1, 
-      name: 'Cámara web HD 1080P', 
+      name: 'iPhone 15', 
       oldPrice: 37500, 
       price: 35000, 
-      urlImg: 'https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSmYckEMeFKNyPfp2TJu1Fup4HIBjibtiCqO3I6nbhWev7LIyxevl52_-aZwkaoJmuOVxzl0GTcx9nqq5G4T3ArSy99H_T5&usqp=CAE'
+      urlImg: 'https://diunsa.vtexassets.com/arquivos/ids/246987-1200-949?v=638621879702300000&width=1200&height=949&aspect=true'
     },
     {
       id: 2, 
